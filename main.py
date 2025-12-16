@@ -11,3 +11,5 @@ def test_add():
     assert add(-1, 1) == 0
     print("✅ Тесты для функции add прошли успешно!")
 
+test_add()
+
