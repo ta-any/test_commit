@@ -1,7 +1,6 @@
 print("------------------------------")
 def add(a: int, b: int) -> int:
     """Простая функция сложения."""
-    print('start add()')
     return a + b
 
 
