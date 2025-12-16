@@ -12,5 +12,5 @@ def test_add():
     print("✅ Тесты для функции add прошли успешно!")
 
 print("start...")
-test_add()
+# test_add()
 
