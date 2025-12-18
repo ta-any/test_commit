@@ -129,7 +129,7 @@ int main(int argc, char *argv[]) {
     CatOptions opts = {0};
     int opt;
 
-    // Парсинг аргументов вручную (без getopt для упрощения)
+    // Парсинг аргументов вручную
     for (int i = 1; i < argc; ++i) {
         char *arg = argv[i];
 
